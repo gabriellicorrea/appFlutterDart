@@ -1,4 +1,6 @@
-# todo
+# ToDo List
+
+Aplicativo criado a partir das aulas do André Baltieri  da Balta.io.
 
 A new Flutter project.
 
